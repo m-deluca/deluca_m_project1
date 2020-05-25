@@ -1,0 +1,1 @@
+This is an in class template example created for MMED 1056
